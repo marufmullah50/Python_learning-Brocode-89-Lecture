@@ -17,6 +17,7 @@ Playlist link: https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2
 ├── Script/
 └── Readme.md
 
+
 📁 Folder Description
 
 Games – Python games I practiced and created
