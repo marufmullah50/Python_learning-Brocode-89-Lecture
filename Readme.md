@@ -1,27 +1,33 @@
-thon Practice Repository
+Python Practice Repository
 
 This repository contains my Python learning and practice work based on a YouTube playlist. All practice files are organized into separate folders for better clarity, navigation, and revision. Each section includes my own notes, comments, and improved code versions to reinforce understanding.
 
 📂 Repository Structure
-Playlist by : Bro Code - YT
 
-Playlist link : https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&si=zOORo8V-OszxOZ0Z
-
-
-
+Playlist by: Bro Code (YouTube)
+Playlist link: https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&si=zOORo8V-OszxOZ0Z
 
 .
-├── Games/                  # Python games I practiced and created
-├── Notebooks/              # Jupyter Notebooks + module practice
-│   ├── python1.ipynb       # Covers Video 1–32
-│   ├── python2.ipynb       # Covers Video 32–42
-│   └── module.py           # Module practice file
-├── P.O.O.P/                # Python Object-Oriented Programming (OOP) practice
-├── Script/                 # Python scripts (extra exercises & mini programs)
-└── Readme.md               # Documentation
+├── Games/
+├── Notebooks/
+│   ├── python1.ipynb
+│   ├── python2.ipynb
+│   └── module.py
+├── P.O.O.P/
+├── Script/
+└── Readme.md
 
+📁 Folder Description
 
+Games – Python games I practiced and created
 
+Notebooks – Jupyter Notebooks for video-based learning and module practice
+
+P.O.O.P – Python Object-Oriented Programming (OOP) exercises and examples
+
+Script – Extra Python scripts and mini programs
+
+Readme.md – Project documentation
 
 ✨ What's Included
 
