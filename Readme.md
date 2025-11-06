@@ -9,12 +9,18 @@ Playlist link: https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2
 
 .
 ├── Games/
+
 ├── Notebooks/
+
 │   ├── python1.ipynb
 │   ├── python2.ipynb
-│   └── module.py
+│
+
+└── module.py
 ├── P.O.O.P/
+
 ├── Script/
+
 └── Readme.md
 
 
